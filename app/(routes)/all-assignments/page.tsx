@@ -19,7 +19,7 @@ export default function AllAssignments() {
             All Assignments
           </h1>
           <Link
-            href="https://github.com/твоя-ссылка-на-репозиторий"
+            href="https://github.com/bexiiiii/frontend-web-"
             target="_blank"
             className="w-full sm:w-auto"
           >

@@ -17,7 +17,7 @@ export default function Assignment1() {
 
   <div className="flex flex-col items-center gap-4 flex-shrink-0">
     <Link
-      href="https://github.com/твоя-ссылка-на-репозиторий"
+      href="https://github.com/bexiiiii/frontend-web-/blob/main/app/(routes)/assignments/Assignment1/page.tsx"
       target="_blank"
       className="w-full sm:w-auto"
     >
@@ -26,7 +26,7 @@ export default function Assignment1() {
         className="w-full sm:w-auto flex items-center gap-2 hover:text-orange-500"
       >
         <Github className="w-5 h-5 " />
-        ссылка на GitHub репо
+        ссылка на GitHub репо кода
       </Button>
     </Link>
 
