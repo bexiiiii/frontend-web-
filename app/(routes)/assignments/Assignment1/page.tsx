@@ -6,7 +6,7 @@ export default function Assignment1() {
   return (
     <div className="container mx-auto px-4 py-20">
       
-      <h1 className="text-3xl font-bold mb-4">Assignment 3</h1>
+      <h1 className="text-3xl font-bold mb-4">Assignment 1</h1>
  <header className="mb-6 mt-8 flex flex-col sm:flex-row items-center sm:items-start gap-6">
   <div className="flex-1">
     <h1 className="text-4xl font-bold">Bekhruz Tokhtamishov</h1>
